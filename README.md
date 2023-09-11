@@ -1,6 +1,6 @@
 # tp24TT
 
-To run the project, create a sql server db called 'tp24TT', open the package manger console and run 'update database' to run the latest migration to build the relevant tables. 
+To run the project, create a sql server db called 'tp24TT', open the package manger console and run 'update database' to run the latest migration to build the relevant tables. Then its just a case of hitting F5 and running via IIS Express for the sake of simplicity. 
 
 there are some unit tests attached to test for output of the endpoints. 
 
